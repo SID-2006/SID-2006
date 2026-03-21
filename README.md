@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Wadher</h1>
-<h3 align="center">🚀 AI & Full Stack Developer | MERN | Java | Python</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN | Java | Python</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+%7C+ML+Enthusiast;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
@@ -10,6 +10,7 @@
 </p>
 
 ---
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ## 🚀 About Me
 

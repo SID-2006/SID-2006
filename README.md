@@ -137,7 +137,9 @@ Exploring computer vision for dental X-ray analysis, with the goal of detecting 
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SID-2006&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <a href="https://github.com/SID-2006">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SID-2006" width="95%" alt="GitHub activity graph" />
+  </a>
 </p>
 
 ---

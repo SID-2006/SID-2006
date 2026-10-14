@@ -1,147 +1,123 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5D4,50:087E8B,100:0D1117&height=220&section=header&text=SIDDHANT%20WADHER&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=teaching%20machines%20to%20see%20%E2%80%94%20one%20tooth%20at%20a%20time&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5D4,50:087E8B,100:0D1117&height=220&section=header&text=SIDDHANT%20WADHER&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=DATA%20SCIENCE%20%C2%B7%20FULL%20STACK%20%C2%B7%20AI%20ENGINEERING&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=%24+sudo+become+AI_Engineer;Data+%E2%86%92+Models+%E2%86%92+Real+Products;Training+YOLO+to+read+dental+X-rays+%F0%9F%A6%B7;Breaking+things+in+Python.+Fixing+them+in+Java.;Loading+future...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=%24+sudo+become+AI_Engineer;Data+%E2%86%92+Models+%E2%86%92+Real+Products;Currently+building+Dental+AI+%F0%9F%A6%B7;LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP" alt="Typing intro" />
 
 <br/>
 
 ![Status](https://img.shields.io/badge/STATUS-BUILDING-00F5D4?style=flat-square&labelColor=0D1117)
-![Class](https://img.shields.io/badge/CLASS-AI%20%26%20DATA%20SCIENCE-087E8B?style=flat-square&labelColor=0D1117)
+![Class](https://img.shields.io/badge/CSE-AI%20%26%20DATA%20SCIENCE-087E8B?style=flat-square&labelColor=0D1117)
 ![Batch](https://img.shields.io/badge/BATCH-2028-00F5D4?style=flat-square&labelColor=0D1117)
-![Mode](https://img.shields.io/badge/MODE-LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20SHIP-087E8B?style=flat-square&labelColor=0D1117)
 
 </div>
 
 <br/>
 
-## 🎮 Player Card
-
 ```text
-╔══════════════════════════════════════════════════════════╗
-║  PLAYER        Siddhant Wadher                           ║
-║  CLASS         AI & Data Science Engineer (in training)  ║
-║  GUILD         Ramdeobaba University  ·  Batch 2028      ║
-║  MAIN QUEST    Dental AI  🦷  [ IN PROGRESS ]            ║
-║  SIDE QUESTS   FastAPI · DSA in Java · LLMs & Agents     ║
-║  SUPERPOWER    Turning messy data into working products  ║
-╚══════════════════════════════════════════════════════════╝
+┌──────────────────────── SID://PROFILE ────────────────────────┐
+│                                                               │
+│   USER        :  Siddhant Wadher                              │
+│   EDUCATION   :  B.Tech CSE (AI & Data Science)               │
+│   UNIVERSITY  :  Ramdeobaba University  ·  2028               │
+│   FOCUS       :  Data Science | Full Stack | AI Engineering   │
+│   NOW         :  Building Dental AI 🦷                        │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 ```
-
-## ⚡ What I'm About
-
-I like the moment a pile of raw data turns into something that *does* something. I work across **data science, computer vision and full-stack development**, and I'm steering toward **AI engineering**: LLMs, agents, and shipping models as real applications.
-
-|   | Right now |
-|---|---|
-| 🦷 **Building** | Dental AI, computer vision on dental X-rays |
-| ⚙️ **Learning** | FastAPI and reliable backend design |
-| 🧩 **Practising** | Data Structures & Algorithms in Java |
-| 🎯 **Aiming at** | LLMs, AI agents, deploying intelligent apps |
 
 <br/>
 
-## 🧰 Inventory
+## `$ cat tech_stack.json`
 
 <div align="center">
 
-**`LANGUAGES`**
-
-<img src="https://skillicons.dev/icons?i=java,py,c,js&theme=dark" alt="Languages" />
-
-**`DATA · ML · VISION`**
-
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,opencv&theme=dark" alt="ML" />
-<br/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
-<img src="https://img.shields.io/badge/YOLO-00F5D4?style=flat-square&logoColor=black&labelColor=0D1117" />
-
-**`FRONTEND`**
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs&theme=dark" alt="Frontend" />
-
-**`BACKEND`**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend" />
-
-**`DATABASES · TOOLS · CLOUD`**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,postman,git,github,azure&theme=dark" alt="Tools" />
-
-</div>
-
-<br/>
-
-## 🚀 Main Quest: Dental AI 🦷
-
-> *Can a model look at a dental X-ray and tell you what a dentist would notice?*
-
-```mermaid
-flowchart LR
-    A[🦷 X-ray Input] --> B[🧹 Preprocessing]
-    B --> C[🎯 YOLO: Detect Teeth]
-    C --> D[🔬 Spot Potential Conditions]
-    D --> E[📋 Insights]
-    style A fill:#0D1117,stroke:#00F5D4,color:#fff
-    style B fill:#0D1117,stroke:#00F5D4,color:#fff
-    style C fill:#087E8B,stroke:#00F5D4,color:#fff
-    style D fill:#087E8B,stroke:#00F5D4,color:#fff
-    style E fill:#0D1117,stroke:#00F5D4,color:#fff
-```
-
-**Stack:** `Python` · `YOLO` · `PyTorch` · `OpenCV`
-
-```text
-Progress  ██████████░░░░░░░░░░  in development
-```
-
-<a href="https://github.com/SID-2006?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_THE_REPOS-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Explore repos" />
-</a>
-
-<br/>
-
-## 🗂️ Side Quests
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📄 Scan-to-Excel
-Drop in a scanned document, get structured data out.
-
-`Python` `Flask` `React` `OCR`
-
+<td align="center" width="170"><b><code>01 / LANGUAGES</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5D4" />
 </td>
-<td width="50%" valign="top">
-
-### ✈️ Flight Booking System
-A database-driven booking app, from search to seat.
-
-`Python` `MySQL`
-
+</tr>
+<tr>
+<td align="center"><b><code>02 / DATA · ML · CV</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logoColor=00F5D4" />
+</td>
+</tr>
+<tr>
+<td align="center"><b><code>03 / FRONTEND</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00F5D4" />
+</td>
+</tr>
+<tr>
+<td align="center"><b><code>04 / BACKEND</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00F5D4" />
+</td>
+</tr>
+<tr>
+<td align="center"><b><code>05 / DATABASES</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F5D4" />
+</td>
+</tr>
+<tr>
+<td align="center"><b><code>06 / TOOLS · CLOUD</code></b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00F5D4" />
+<img src="https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00F5D4" />
 </td>
 </tr>
 </table>
 
-<br/>
-
-## 🛣️ Roadmap
-
-```text
-[✓] Python · data analysis · ML foundations
-[✓] Computer vision with YOLO & PyTorch (in use)
-[~] FastAPI + backend systems
-[~] DSA in Java
-[ ] LLM-powered applications
-[ ] AI agents
-[ ] Deploy intelligent apps at scale
-```
+</div>
 
 <br/>
 
-## 📈 Stats
+## `$ ./current_project`
+
+<div align="center">
+
+<a href="https://github.com/SID-2006?tab=repositories">
+  <img src="https://img.shields.io/badge/🦷_DENTAL_AI-IN_DEVELOPMENT-00F5D4?style=for-the-badge&labelColor=0D1117" alt="Dental AI in development" />
+</a>
+
+</div>
+
+<br/>
+
+## `$ ls ./other_projects`
+
+| Project | Stack |
+|---|---|
+| 📄 **Scan-to-Excel** | `Python` · `Flask` · `React` · `OCR` |
+| ✈️ **Flight Booking System** | `Python` · `MySQL` |
+
+<br/>
+
+## `$ git status --short`
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SID-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" alt="GitHub Stats" />
@@ -156,28 +132,14 @@ A database-driven booking app, from search to seat.
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SID-2006&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
-<details>
-<summary><b>🔓 <code>sudo cat secrets.txt</code></b></summary>
 <br/>
 
-- I trust a model more after I've tried to break it.
-- Favourite debugging technique: explain the bug out loud until it fixes itself.
-- Currently turning "it works on my machine" into "it works for everyone."
-
-*(Edit these to your real ones, nothing beats a genuine easter egg.)*
-
-</details>
-
-<br/>
-
-## 📡 Let's Connect
+## `$ connect --with-siddhant`
 
 <p align="center">
   <a href="https://github.com/SID-2006"><img src="https://img.shields.io/badge/GitHub-SID--2006-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/siddhant-wadher/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:siddhantwadher31@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
-
-<p align="center"><code>LEARN → BUILD → EXPERIMENT → IMPROVE → REPEAT</code></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:087E8B,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />

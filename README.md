@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F5D4,50:087E8B,100:0D1117&height=220&section=header&text=SIDDHANT%20WADHER&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=DATA%20SCIENCE%20%C2%B7%20FULL%20STACK%20%C2%B7%20AI%20ENGINEERING&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=%24+sudo+become+AI_Engineer;Data+%E2%86%92+Models+%E2%86%92+Real+Products;Currently+building+Dental+AI+%F0%9F%A6%B7;LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP" alt="Typing intro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=00F5D4&center=true&vCenter=true&width=760&lines=%24+sudo+become+AI_Engineer;Data+%E2%86%92+Models+%E2%86%92+Real+Products;LEARN+%E2%86%92+BUILD+%E2%86%92+SHIP" alt="Typing intro" />
 
 <br/>
 

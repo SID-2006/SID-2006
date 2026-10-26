@@ -1,124 +1,156 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:087E8B,100:0D1117&height=200&section=header&text=Siddhant%20Wadher&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENCE%20%C2%B7%20FULL%20STACK%20%C2%B7%20AI%20ENGINEERING&descSize=14&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=00F5D4&center=true&vCenter=true&width=800&lines=SID+%2F%2F+SYSTEM+INITIALIZED;DATA+SCIENCE+%E2%86%92+AI+ENGINEERING;FULL+STACK+%7C+BACKEND+%7C+ML;BUILDING+INTELLIGENT+SYSTEMS..." alt="Terminal intro" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=640&lines=Turning+data+into+intelligent+applications;Learning+%E2%86%92+Building+%E2%86%92+Shipping;Aiming+for+AI+Engineering+%F0%9F%9A%80" alt="Typing intro" />
+### `Siddhant Wadher`
 
-<br/>
+**CSE (AI & Data Science) Student · Developer · Future AI Engineer**
 
-<img src="https://img.shields.io/badge/B.Tech_CSE-AI_%26_Data_Science-0D1117?style=flat-square&labelColor=087E8B&color=0D1117" />
-<img src="https://img.shields.io/badge/Ramdeobaba_University-2028-0D1117?style=flat-square&labelColor=087E8B&color=0D1117" />
-<img src="https://img.shields.io/badge/Open_to-Learning_%26_Building-0D1117?style=flat-square&labelColor=00F5D4&color=0D1117" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,50:087E8B,100:111827&height=3&section=header" width="100%" alt="Divider" />
 
 </div>
 
-<br/>
+```text
+┌─────────────────────── SID://PROFILE ───────────────────────┐
+│                                                             │
+│  USER       : Siddhant Wadher                               │
+│  EDUCATION  : B.Tech CSE (AI & Data Science)                 │
+│  UNIVERSITY : Ramdeobaba University                          │
+│  GRADUATION : 2028                                           │
+│  FOCUS      : Data Science | Full Stack | AI Engineering     │
+│  CURRENTLY  : Building Dental AI                             │
+│  MISSION    : Turning data into intelligent applications     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
-## ◆ About
+## `$ whoami`
 
-I build at the intersection of **data science, machine learning and full-stack engineering**. Right now I'm sharpening my backend skills with **FastAPI**, practising **DSA in Java**, and working toward **LLMs and AI agents**.
+I'm a developer exploring the intersection of **data science, machine learning, and full-stack engineering**.
 
-<br/>
+- 📊 **Data Science:** Experience with Python-based data analysis, data manipulation, and machine learning foundations.
+- 🦷 **Currently building:** Dental AI — a computer vision project exploring dental X-ray analysis.
+- ⚙️ **Backend:** Learning to build APIs and reliable backend systems with FastAPI and other technologies.
+- 🧠 **Future direction:** AI Engineering, LLMs, AI agents, and deploying intelligent applications.
+- 💻 **Problem solving:** Practising Data Structures & Algorithms in Java.
 
-## ◆ Stack
+## `$ cat tech_stack.json`
 
-<div align="center">
+<p align="center"><b>01 / LANGUAGES</b></p>
 
-<sub><b>LANGUAGES</b></sub><br/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00F5D4" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<br/>
+<p align="center"><b>02 / DATA SCIENCE, ML & COMPUTER VISION</b></p>
 
-<sub><b>DATA · ML · VISION</b></sub><br/>
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Matplotlib-0D1117?style=flat-square&logo=plotly&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Seaborn-0D1117?style=flat-square&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Scikit--Learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/YOLO-0D1117?style=flat-square&logoColor=00F5D4" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111827?style=for-the-badge" />
+</p>
 
-<br/>
+<p align="center"><b>03 / FRONTEND DEVELOPMENT</b></p>
 
-<sub><b>FRONTEND</b></sub><br/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00F5D4" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
-<br/>
+<p align="center"><b>04 / BACKEND DEVELOPMENT</b></p>
 
-<sub><b>BACKEND</b></sub><br/>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=00F5D4" />
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-<br/>
+<p align="center"><b>05 / DATABASES, TOOLS & CLOUD</b></p>
 
-<sub><b>DATABASES · TOOLS · CLOUD</b></sub><br/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=00F5D4" />
-<img src="https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=00F5D4" />
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
-</div>
+---
 
-<br/>
-
-## ◆ Projects
+## `$ ./current_project`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 📄 Scan-to-Excel
-Turns scanned documents into structured data.
+<h3>🦷 Dental AI <sup> / IN DEVELOPMENT</sup></h3>
 
-`Python` `Flask` `React` `OCR`
+Exploring computer vision for dental X-ray analysis, with the goal of detecting teeth and identifying potential dental conditions.
 
-</td>
-<td width="50%" valign="top">
+**Core focus:** Python · YOLO · PyTorch · Computer Vision
 
-### ✈️ Flight Booking System
-Database-driven flight booking application.
-
-`Python` `MySQL`
+<a href="https://github.com/SID-2006?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_Project-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="Explore project repositories" />
+</a>
 
 </td>
 </tr>
 </table>
 
-<br/>
+## `$ ls ./other_projects`
 
-## ◆ GitHub Stats
+| Project | Description | Stack |
+|---|---|---|
+| 📄 **Scan-to-Excel** | Extract structured information from scanned documents | Python · Flask · React · OCR |
+| ✈️ **Flight Booking System** | Database-driven flight booking application | Python · MySQL |
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SID-2006&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=8B949E" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID-2006&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=8B949E" alt="Top Languages" />
+  <a href="https://github.com/SID-2006?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=00F5D4" alt="View repositories" />
+  </a>
+</p>
+
+---
+
+## `$ git status --short`
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SID-2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SID-2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com/?user=SID-2006&theme=transparent&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=6E7681&stroke=30363D" alt="Streak" />
+  <img width="95%" src="https://streak-stats.demolab.com/?user=SID-2006&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Contribution Streak" />
 </p>
 
-<br/>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SID-2006&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-## ◆ Connect
+---
 
-<div align="center">
+## `$ connect --with-siddhant`
 
-<a href="https://github.com/SID-2006"><img src="https://img.shields.io/badge/GitHub-SID--2006-0D1117?style=for-the-badge&logo=github&logoColor=00F5D4" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/siddhant-wadher/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5D4" alt="LinkedIn" /></a>
-<a href="mailto:siddhantwadher31@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5D4" alt="Email" /></a>
+<p align="center">
+  <a href="https://github.com/SID-2006"><img src="https://img.shields.io/badge/GitHub-SID--2006-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/siddhant-wadher/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:siddhantwadher31@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:087E8B,100:0D1117&height=110&section=footer" width="100%" alt="Footer" />
+<p align="center"><code>LEARN → BUILD → EXPERIMENT → IMPROVE → REPEAT</code></p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:087E8B,100:0D1117&height=120&section=footer" width="100%" alt="Footer" />

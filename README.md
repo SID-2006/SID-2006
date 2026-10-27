@@ -99,8 +99,8 @@
 
 | Project | Stack |
 |---|---|
-| 📄 **Scan-to-Excel** | `Python` · `Flask` · `React` · `OCR` |
-| ✈️ **Flight Booking System** | `Python` · `MySQL` |
+|  **Scan-to-Excel** | `Python` · `Flask` · `React` · `OCR` |
+|  **Doctor-Dental-AI** | `Python` · `FASTapi` · `YOLO` · `pytorch` |
 
 <br/>
 
